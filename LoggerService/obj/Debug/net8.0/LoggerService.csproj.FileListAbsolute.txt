@@ -1,0 +1,15 @@
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/bin/Debug/net8.0/LoggerService.deps.json
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/bin/Debug/net8.0/LoggerService.dll
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/bin/Debug/net8.0/LoggerService.pdb
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/bin/Debug/net8.0/Contracts.dll
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/bin/Debug/net8.0/Contracts.pdb
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/LoggerService.csproj.AssemblyReference.cache
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/LoggerService.AssemblyInfoInputs.cache
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/LoggerService.AssemblyInfo.cs
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/LoggerService.csproj.CoreCompileInputs.cache
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/LoggerService.csproj.CopyComplete
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/LoggerService.dll
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/refint/LoggerService.dll
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/LoggerService.pdb
+/home/markmumba/RiderProjects/CompanyEmployees/LoggerService/obj/Debug/net8.0/ref/LoggerService.dll

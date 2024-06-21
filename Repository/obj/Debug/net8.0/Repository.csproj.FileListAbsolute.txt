@@ -1,0 +1,17 @@
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/bin/Debug/net8.0/Repository.deps.json
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/bin/Debug/net8.0/Repository.runtimeconfig.json
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/bin/Debug/net8.0/Repository.dll
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/bin/Debug/net8.0/Repository.pdb
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/bin/Debug/net8.0/Entities.dll
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/bin/Debug/net8.0/Entities.pdb
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.csproj.AssemblyReference.cache
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.AssemblyInfoInputs.cache
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.AssemblyInfo.cs
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.csproj.CoreCompileInputs.cache
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.csproj.CopyComplete
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.dll
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/refint/Repository.dll
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.pdb
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/Repository.genruntimeconfig.cache
+/home/markmumba/RiderProjects/CompanyEmployees/Repository/obj/Debug/net8.0/ref/Repository.dll

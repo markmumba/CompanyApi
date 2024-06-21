@@ -1,0 +1,11 @@
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/bin/Debug/net8.0/Entities.deps.json
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/bin/Debug/net8.0/Entities.dll
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/bin/Debug/net8.0/Entities.pdb
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/obj/Debug/net8.0/Entities.dll
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/obj/Debug/net8.0/refint/Entities.dll
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/obj/Debug/net8.0/Entities.pdb
+/home/markmumba/RiderProjects/CompanyEmployees/Entities/obj/Debug/net8.0/ref/Entities.dll
